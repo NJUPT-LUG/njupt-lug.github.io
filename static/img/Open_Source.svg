@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="466.315mm"
+   height="448.94mm"
+   viewBox="0 0 466.315 448.94"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="绘图.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.35811417"
+     inkscape:cx="266.67473"
+     inkscape:cy="774.89254"
+     inkscape:window-width="2560"
+     inkscape:window-height="1351"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1" />
+  <path
+     id="shape"
+     d="m 260.13022,307.12235 c 32.25781,-11.98049 49.09766,-35.05079 49.09766,-74.75783 0,-39.70703 -33.46093,-74.69529 -75.26953,-74.76562 -44.12111,-0.0704 -77.40235,34.91408 -76.8711,74.76562 0.53125,39.85158 19.53906,66.36329 49.95703,75.94924 L 153.15756,440.88405 C 81.036463,422.21218 7.6848502,337.13015 7.6848502,232.36455 7.6848502,108.27864 107.38798,7.6848502 232.35677,7.6848502 c 124.96875,0 226.27338,100.5936998 226.27338,224.6796998 0,106.39449 -72.65625,190.29301 -146.31639,208.8906 z m 0,0"
+     style="fill:#3da638;stroke:#1c511c;stroke-width:15.3697;stroke-linecap:round;stroke-linejoin:round" />
+</svg>

@@ -15,8 +15,11 @@ const FeatureList: FeatureItem[] = [
     Svg: require("@site/static/img/Open_Source.svg").default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        I think that Open Source can do better, and I'm willing to put my money
+        where my mouth is by working on Open Source, but it's not a crusade –
+        it's just a superior way of working together and generating code.
+        <br />
+        -- Torvalds, Linus.
       </>
     ),
   },
@@ -25,8 +28,21 @@ const FeatureList: FeatureItem[] = [
     Svg: require("@site/static/img/Tux.svg").default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        新竹高于旧竹枝，全凭老干为扶持。 下年再有新生者，十丈龙孙绕凤池。
+        <br />
+        ——清·郑燮《竹石》
+      </>
+    ),
+  },
+  {
+    title: "兼容并包",
+    Svg: require("@site/static/img/beastie.svg").default,
+    description: (
+      <>
+        My own computational world is a strange blend of Plan 9, Windows, and
+        Inferno. I very much admire Linux's growth and vigor.
+        <br />
+        -- Dennis M. Ritchie.
       </>
     ),
   },
@@ -34,7 +50,7 @@ const FeatureList: FeatureItem[] = [
 
 function Feature({ title, Svg, description }: FeatureItem) {
   return (
-    <div className={clsx("col col--6")}>
+    <div className={clsx("col col--4")}>
       <div className="text--center">
         <Svg className={styles.featureSvg} role="img" />
       </div>

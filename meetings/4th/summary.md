@@ -20,5 +20,5 @@ sidebar_position: 1
   - 古南邮掌握 io_uring 的神 (io_uring + java) - dreamlike
   - 竞赛算法在工程中的应用- Sy11
   - 浅谈 rusage 与 rlimit - 极速蜗牛
-  - Head First GNU/Emacs - Moroshima
+  - [Head First GNU/Emacs](./head-first-emacs) - Moroshima
 - 交流讨论

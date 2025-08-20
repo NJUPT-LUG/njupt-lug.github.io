@@ -19,7 +19,7 @@ sidebar_position: 1
 - 分享
   - **KawhiCurry** bpf从入门到精通(x
   - **长空** personal reading flow
-  - **Moroshima** bsdtar与压缩算法初探
+  - **Moroshima** [bsdtar与压缩算法初探](./preliminary-study-on-bsd-tar-and-data-compression-methods)
   - **Maxtune** 浅谈Reactive Components设计与使用
   - **aimixsaka** Nix(OS)的概念和使用感想
   - **极速蜗牛** Linux Capabilities
